@@ -1,5 +1,3 @@
-include 'commands.inc'
-
 org 1000h
 
 jmp start
